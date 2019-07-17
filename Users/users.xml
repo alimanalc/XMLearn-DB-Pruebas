@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <username>alicia</username>
+        <password>alicia</password>
+        <userid>0</userid>
+        <email>alicia@a.com</email>
+    </user>
+     <user>
+        <username>javier</username>
+        <password>javier</password>
+        <userid>1</userid>
+        <email>javier@j.com</email>
+    </user>
+     <user>
+        <username>rosa</username>
+        <password>rosa</password>
+        <userid>2</userid>
+        <email>rosa@r.com</email>
+    </user>
+     <user>
+        <username>jose</username>
+        <password>jose</password>
+        <userid>3</userid>
+        <email>jose@j.com</email>
+    </user>
+     <user>
+        <username>cristina</username>
+        <password>cristina</password>
+        <userid>4</userid>
+        <email>cristina@c.com</email>
+    </user>
+</users>

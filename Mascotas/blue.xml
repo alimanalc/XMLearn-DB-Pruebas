@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mascota>
+    <nombre>Blue</nombre>
+    <propietario>Alicia</propietario>
+    <especie>Ave</especie>
+    <raza>loro</raza>
+    <sexo>Macho</sexo>
+</Mascota>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mascota>
+    <nombre>Loli</nombre>
+    <propietario>Alicia</propietario>
+    <especie>Ave</especie>
+    <raza>Cacatua</raza>
+    <sexo>Hembra</sexo>
+</Mascota>
